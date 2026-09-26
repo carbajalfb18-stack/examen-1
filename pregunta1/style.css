@@ -10,7 +10,8 @@ p,h1.h2,h3,li,.roojo {
 h1 { color: whitesmoke;
     font-family: Arial, sans-serif;
 }
-.roojo{ color: #e63946;
+#caja > .roojo{ 
+        color: #e63946;
         font-family: Arial, sans-serif;
 }
 
@@ -52,7 +53,8 @@ ul{
 }
 #caja {
     padding-top: 75px;
-    padding-left: 60px;
+    padding-left: 100px;
+
 }
 
 button{
